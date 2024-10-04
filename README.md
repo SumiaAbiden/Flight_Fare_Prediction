@@ -115,7 +115,3 @@ test_neg_mean_absolute_percentage_error      0.04757
 
 dtype: object
 
---------------------------------
-*Kaggle Linki*
-
-https://www.kaggle.com/code/sumiaabiden/bootcamp-project/edit
