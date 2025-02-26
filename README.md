@@ -1,4 +1,4 @@
-*Flight Fare Prediction Dataset Classification and Regression with Model Machine Learning *
+*Flight Fare Prediction Dataset Classification and Regression with Model Machine Learning*
 ----------------------------------
 
 ![image](https://github.com/user-attachments/assets/3571a472-502a-4560-bbad-41ec25fa3c32)
